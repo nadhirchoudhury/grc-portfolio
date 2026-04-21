@@ -1,38 +1,45 @@
-# GRC Portfolio
+GRC Portfolio
 
-Welcome to my GRC Portfolio. My name is Nadhir Choudhury and I am actively looking for an entry level role in cybersecurity, specifically in governance, risk, and compliance.
+Welcome to my GRC Portfolio. My name is Nadhir Choudhury and I am actively seeking an entry level role in cybersecurity with a focus on governance, risk, and compliance.
 
-I come from a healthcare background where I have worked in high responsibility environments that require attention to detail, accountability, and following strict procedures. Through this experience, I developed a strong understanding of how important risk awareness, compliance, and proper documentation are in real world settings. I am now applying that mindset to cybersecurity and building my career in GRC.
+I come from a healthcare background where I worked in environments that require strict compliance, attention to detail, and accountability. In that setting, there is no room for mistakes, and every action has real consequences. That experience shaped how I approach risk, responsibility, and documentation.
 
-This portfolio reflects the work I have been doing to prepare myself for this field. These are not just theoretical concepts. I created these projects to mirror how GRC work is actually done in organizations. I focused on learning how to identify risks, document them clearly, create policies, and align everything with recognized frameworks and regulations.
+I am now transitioning into cybersecurity and applying that same mindset to GRC. I didn’t just learn theory. I built this portfolio to reflect how GRC work is actually done in real organizations.
 
----
+Why you should consider me
 
-## What I Bring
+I understand how to identify risks and think from a real world perspective, not just from theory
+I can create clear and structured security documentation that is practical and usable
+I am familiar with key frameworks and regulations such as NIST, HIPAA, and ISO 27001
+I take initiative and consistently build hands-on projects to strengthen my skills
+I bring discipline, accountability, and the ability to perform under pressure from my healthcare experience
 
-I understand how to think from a risk perspective and identify what could go wrong in an organization
-I can create clear and structured security policies such as acceptable use, password policies, and data classification
-I have knowledge of key frameworks and regulations including NIST, HIPAA, and ISO 27001
-I have strong attention to detail and take documentation seriously
-I bring real world discipline and responsibility from my healthcare experience
+Certifications
 
----
+I have taken steps to build a strong foundation in cybersecurity and GRC:
 
-## Projects
+AI Security and Governance Certification
+GRC Fundamentals – Governance, Risk, and Compliance (Coursera)
+ISC2 Certified in Cybersecurity (CC) – currently in progress
 
-In this portfolio, you will find a set of security policies that form the foundation of a corporate security program. You will also see a healthcare focused risk assessment that includes a structured risk register. In addition, there is a compliance checklist based on the NIST Cybersecurity Framework to show how controls are aligned with industry standards.
+Projects
 
----
+This portfolio includes practical work that reflects real GRC responsibilities.
 
-## Career Goal
+I created foundational security policies including acceptable use, password policy, and data classification to simulate what organizations actually implement.
 
-I am looking for an opportunity as a GRC Analyst, Risk Analyst, or Compliance Analyst where I can start contributing right away. I am ready to support risk assessments, help with compliance efforts, and assist in building and maintaining security documentation.
+I conducted a healthcare focused risk assessment and built a structured risk register to demonstrate how risks are identified, evaluated, and documented.
 
-I am serious about this career path and committed to continuously learning and improving. I am looking for a team that is willing to give me an opportunity to prove myself and grow within the organization.
+I also developed a compliance checklist based on the NIST Cybersecurity Framework to show how controls are aligned with industry standards.
 
----
+What I am looking for
 
-## Disclaimer
+I am looking for an opportunity as a GRC Analyst, Risk Analyst, or Compliance Analyst where I can contribute from day one.
 
-All documents in this portfolio are created for learning and demonstration purposes only. They are meant to show my understanding and should not be used in a real production environment.
+I am ready to support risk assessments, assist with compliance efforts, and help build and maintain security documentation. I am motivated to learn quickly, take feedback seriously, and grow within a team that values strong security practices.
 
+If you are looking for someone who is serious about building a career in GRC and willing to put in the work, I would appreciate the opportunity to prove myself.
+
+Disclaimer
+
+All documents in this portfolio are created for learning and demonstration purposes only. They are intended to show my practical understanding and should not be used in a production environment.
