@@ -36,6 +36,3 @@ I am serious about this career path and committed to continuously learning and i
 
 All documents in this portfolio are created for learning and demonstration purposes only. They are meant to show my understanding and should not be used in a real production environment.
 
----
-
-If you want, I can make this even stronger by making it sound like a top 1 percent candidate or tailor it specifically for the exact jobs you are applying to.
